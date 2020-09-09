@@ -70,3 +70,15 @@ The ESP32 Touch Camera use ILI9488 screen, which comes with resistive or capacit
 
 ## How To Play
 
+- Click on the first row with your finger the second and the third  is up.
+- Click with your finger on the fourth row and the second and third rows are down.
+- Click on the first column with your finger and the second and third columns are left.
+- Click on the fourth column with your finger and the second and third columns are right.
+
+![direction](md_pic/direction.jpg)
+
+
+
+- Of course, you can also use your fingers to slide around from the middle four squares.
+
+![slide](md_pic/slide.jpg)
