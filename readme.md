@@ -36,7 +36,9 @@ This time, a capacitive screen was used for the game experience much better.
 
 # ESP32 Touch Camera
 
-## ~~Product link ：~~[ ~~ESP32 Touch Camera~~]() 
+## Product link ：[ ESP32 Touch Camera(Resistive)](https://www.makerfabs.com/esp32-3.5-inch-tft-touch-resistive-with-camera.html) 
+
+## Product link ：[ ESP32 Touch Camera(Capacitive)](https://www.makerfabs.com/esp32-3.5-inch-tft-touch-capacitive-with-camera.html) 
 
 [ESP32 Touch Camera](https://www.youtube.com/watch?v=zWUy4gcwMs4&feature=youtu.be)
 
